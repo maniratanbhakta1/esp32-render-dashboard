@@ -1,0 +1,12 @@
+{
+  "name": "esp32-render-dashboard",
+  "version": "1.0.0",
+  "description": "ESP32 WiFi dashboard on Render",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
